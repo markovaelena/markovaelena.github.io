@@ -1,4 +1,4 @@
-# markovaelena.github.io
+# Elena Markova Data Science Projects
 
 # My Projects
 * [cancer-research-project](https://github.com/markovaelena/cancer-prediction-project.git)
